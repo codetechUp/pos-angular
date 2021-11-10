@@ -1,0 +1,6 @@
+{
+  "username":"admin",
+  "password": "passer",
+  "role":"ADMIN",
+  "isLogged": false
+}

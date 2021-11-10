@@ -1,0 +1,17 @@
+[
+  {
+    "id":0,
+    "name":"Fataya",
+    "prix": 500
+  },
+  {
+    "id":1,
+    "name":"Hambouger",
+    "prix": 1000
+  },
+  {
+    "id":2,
+    "name":"Omelette",
+    "prix": 700
+  }
+]
